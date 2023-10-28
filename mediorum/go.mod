@@ -1,4 +1,4 @@
-module mediorum
+module alecsavvy/audius-protocol/mediorum
 
 go 1.20
 
